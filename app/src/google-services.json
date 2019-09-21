@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "631706396759",
+    "firebase_url": "https://nklocutores-manager.firebaseio.com",
+    "project_id": "nklocutores-manager",
+    "storage_bucket": "nklocutores-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631706396759:android:703e2ae12df2f9cf",
+        "android_client_info": {
+          "package_name": "com.aom.nklocutores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631706396759-36i3rsfit371tmbdujrrj1grgqr9h820.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xGPv8rQI4QPeYD7h1j-Kp5ntG5KZxxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631706396759-36i3rsfit371tmbdujrrj1grgqr9h820.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631706396759-hmm0qnt15c1umr7aa33oofomfn72cjt7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barronegro.mgr.NKLocutores"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631706396759:android:83e1aabde57359d1",
+        "android_client_info": {
+          "package_name": "com.example.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631706396759-36i3rsfit371tmbdujrrj1grgqr9h820.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xGPv8rQI4QPeYD7h1j-Kp5ntG5KZxxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631706396759-36i3rsfit371tmbdujrrj1grgqr9h820.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631706396759-hmm0qnt15c1umr7aa33oofomfn72cjt7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barronegro.mgr.NKLocutores"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631706396759:android:dcb4c9512bbebcae",
+        "android_client_info": {
+          "package_name": "com.example.template.DEV"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631706396759-36i3rsfit371tmbdujrrj1grgqr9h820.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xGPv8rQI4QPeYD7h1j-Kp5ntG5KZxxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631706396759-36i3rsfit371tmbdujrrj1grgqr9h820.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631706396759-hmm0qnt15c1umr7aa33oofomfn72cjt7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barronegro.mgr.NKLocutores"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
